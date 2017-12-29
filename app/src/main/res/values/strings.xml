@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">seismiK demo</string>
+    <string name="shake_me_bro_label">Shake me, bro!</string>
+    <string name="hear_shake_message_text">Don\'t shake me, bro!</string>
+    <string name="select_sensitivity_text">Sensitivity:</string>
+    <string name="sensitivity_light_text">Light</string>
+    <string name="sensitivity_medium_text">Medium</string>
+    <string name="sensitivity_hard_text">Hard</string>
+    <string name="sensitivity_harder_text">Harder</string>
+</resources>

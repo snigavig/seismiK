@@ -1,0 +1,5 @@
+- Reimplemented the code with Kotlin
+- Extracted internal classes from the ShakeDetector to be more testable
+- Added a unit test for SampleQueue
+- Enumerated sensitivity modes
+- Extended demo application with all the features
